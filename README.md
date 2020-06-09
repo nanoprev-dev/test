@@ -7,8 +7,8 @@ Here is the discussion. This methods adds two double and return the optional Dou
 2. Handle return type because it is optional.
 
 # Example #
-```
+```swift
 if let sum = self.add(number1: 23, number2: 34) {
-print(sum)
+  print(sum)
 }
 ```
