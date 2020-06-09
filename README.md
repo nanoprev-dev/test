@@ -2,7 +2,7 @@
 
 This method sum two double numbers and returns.
 
-![](https://octodex.github.com/images/yaktocat.png | width=100)
+![](https://octodex.github.com/images/yaktocat.png|width=100)
 
 ## Discussion ##
 Here is the discussion. This methods adds two double and return the optional Double.
