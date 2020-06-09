@@ -1,5 +1,6 @@
 This method sum two double numbers and returns.
 
+# Discussion #
 Here is the discussion. This methods adds two double and return the optional Double.
 
 # Notes: #
