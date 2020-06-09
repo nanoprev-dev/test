@@ -18,3 +18,5 @@ if let sum = self.add(number1: 23, number2: 34) {
   print(sum)
 }
 ```
+
+https://vse-dengy.ru/fondovyiy-ryinok/s-chego-nachat-torgovlyu/skolko-mozhno-zarabotat-na-birzhe.html
