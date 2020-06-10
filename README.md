@@ -1,29 +1,48 @@
-# Summary #
 
-This method sum two double numbers and returns.
+asdasdsa
 
-![](https://octodex.github.com/images/yaktocat.png|width=100)
-<img src="https://camo.githubusercontent.com/331400aee821efda2e36ee9b3bc8bce93b975109/68747470733a2f2f6779617a6f2e636f6d2f65623563353734316236613961313663363932313730613431613439633835382e706e67" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200"/>
 
-## Discussion ##
-Here is the discussion. This methods adds two double and return the optional Double.
+## Application Structure ##
+<img src="/script/images/folder.png" width=64>&nbsp; ### Pods ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### MTCircularSlider ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### SwiftCharts ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp;&nbsp; ### Trendlines ###
+<img src="/script/images/folder.png" width=64>&nbsp; ### Watch Extension ###
+<img src="/script/images/folder.png" width=64>&nbsp; ### loopOne ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Animation ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Biometry ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Bluetooth ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Crypto ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### DB ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Extension ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Health ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Location ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Log ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Notification ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Object ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Popup ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Request ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Screen ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Siri ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Sound ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Storage ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Taptic ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Theme ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### View ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Wait ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Watch ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Application ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Cloud ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### InsulinDevice ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Math ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Object ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Scene ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Service ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Settings ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### Setup ###
+<img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### View ###
+<img src="/script/images/folder.png" width=64>&nbsp; ### loopOneTests ###
+<img src="/script/images/folder.png" width=64>&nbsp; ### loopOneUITests ###
 
-### Notes: ###
-1. Parameters must be **double** type
-2. Handle return type because it is optional.
 
-#### Example ####
-```swift
-if let sum = self.add(number1: 23, number2: 34) {
-  print(sum)
-}
-```
-
-https://vse-dengy.ru/fondovyiy-ryinok/s-chego-nachat-torgovlyu/skolko-mozhno-zarabotat-na-birzhe.html
-
-https://worldofvideo.ru/reklama-u-videoblogerov-na-youtube/ (reklama)
-
-https://www.cossa.ru/sandbox/116166/
-https://booseed.com/ru
-
-https://videozayac.ru/blog/skolko-stoit-animacionnyj-rolik/ (анимация)
+## Code Description ##
