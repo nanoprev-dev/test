@@ -3,9 +3,9 @@ asdasdsa
 
 
 ## Application Structure ##
-![Kiku](script/images/folder.png)&nbsp; **Pods**
+<img src="/script/image/folder.png" width=64>&nbsp; **Pods**
 
-![Kiku](script/images/folder.png)&nbsp; **Pods 1**
+<img src="/script/image/folder.png" width=64>&nbsp; **Pods 1**
 
 
 ## Code Description ##
