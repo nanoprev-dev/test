@@ -22,3 +22,8 @@ if let sum = self.add(number1: 23, number2: 34) {
 https://vse-dengy.ru/fondovyiy-ryinok/s-chego-nachat-torgovlyu/skolko-mozhno-zarabotat-na-birzhe.html
 
 https://worldofvideo.ru/reklama-u-videoblogerov-na-youtube/ (reklama)
+
+https://www.cossa.ru/sandbox/116166/
+https://booseed.com/ru
+
+https://videozayac.ru/blog/skolko-stoit-animacionnyj-rolik/ (анимация)
