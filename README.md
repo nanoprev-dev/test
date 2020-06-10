@@ -3,7 +3,7 @@ asdasdsa
 
 
 ## Application Structure ##
-<img src="/script/images/folder.png" width=64>&nbsp; ### Pods ###
+<img src="script/images/folder.png" width=64>&nbsp; **Pods**
 <img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### MTCircularSlider ###
 <img src="/script/images/folder.png" width=64>&nbsp;&nbsp; ### SwiftCharts ###
 <img src="/script/images/folder.png" width=64>&nbsp;&nbsp;&nbsp; ### Trendlines ###
